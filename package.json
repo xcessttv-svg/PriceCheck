@@ -4,6 +4,7 @@
   "private": true,
   "main": "App.js",
   "scripts": {
+    "test": "echo \"No automated tests yet; run linting or start the app as needed.\"",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
